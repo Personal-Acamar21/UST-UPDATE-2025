@@ -7,8 +7,8 @@ import { Link } from 'react-router-dom';
 
 const newsletters = [
   {
-    title: "March 2024 Newsletter",
-    date: "March 1, 2024",
+    title: "February 2025 Newsletter",
+    date: "February 1, 2025",
     highlights: [
       "Spring Season Registration Now Open",
       "Elite Training Program Launch",
@@ -31,17 +31,17 @@ const newsletters = [
     `
   },
   {
-    title: "February 2024 Newsletter",
-    date: "February 1, 2024",
+    title: "February 2025 Newsletter",
+    date: "February 1, 2025",
     highlights: [
-      "Winter Indoor League Results",
+      "Winter Indoor Tournament Results",
       "College Signing Day Celebration",
       "New Training Facility Updates",
       "Coach of the Month: Mike Thompson"
     ],
     image: "https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673bd75015ee065bf0b64cad.png",
     content: `
-      Winter Indoor League Success
+      Winter Indoor Tournament Success
       Congratulations to all teams on a successful Winter Indoor League season. Special mention to our U14 boys and U16 girls teams for reaching the finals!
 
       College Signing Day
