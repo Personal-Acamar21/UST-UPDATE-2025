@@ -3,20 +3,62 @@ import React from 'react';
 export default function OurStaff() {
   const staff = [
     {
-      name: "Coach Kozy",
-      role: "Technical Director",
+      name: "Kozy Ikwazom",
+      role: "Head Coach – Academy General Manager",
+      credentials: "United Soccer Coach License",
+      experience: "5+ years"
+    },
+    {
+      name: "Zack Ogoo",
+      role: "Head Coach – Academy Technical Director",
       credentials: "United Soccer Coach License",
       experience: "4+ years"
     },
     {
-      name: "Coach Zack",
-      role: "Head Coach - Elite Academy",
+      name: "Alec Adeclat",
+      role: "Head Coach – Girls Development Director",
       credentials: "United Soccer Coach License",
       experience: "4+ years"
     },
     {
-      name: "Coach Alec",
-      role: "Head Coach - Youth Development",
+      name: "Joshua Allen",
+      role: "Coach",
+      credentials: "United Soccer Coach License",
+      experience: "4+ years"
+    },
+    {
+      name: "Jason Alvarez",
+      role: "Coach",
+      credentials: "United Soccer Coach License",
+      experience: "4+ years"
+    },
+    {
+      name: "Chris Leidner",
+      role: "Coach",
+      credentials: "United Soccer Coach License",
+      experience: "4+ years"
+    },
+    {
+      name: "Jorge Rodriguez",
+      role: "Coach",
+      credentials: "United Soccer Coach License",
+      experience: "4+ years"
+    },
+    {
+      name: "Kristina Gambino",
+      role: "Coach",
+      credentials: "United Soccer Coach License",
+      experience: "4+ years"
+    },
+    {
+      name: "Joe Ogoo",
+      role: "Coach",
+      credentials: "United Soccer Coach License",
+      experience: "4+ years"
+    },
+    {
+      name: "Phil Iacono",
+      role: "Goalkeeper Coach",
       credentials: "United Soccer Coach License",
       experience: "4+ years"
     }
