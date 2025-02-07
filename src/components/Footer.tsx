@@ -56,7 +56,7 @@ export default function Footer() {
               <li>DBA UST KINGS PARK</li>
               <li>P.O. BOX: 312</li>
               <li>KINGS PARK NY 11754</li>
-              <li>TEL: 631-506-6567</li>
+              <li>TEL: 631-506-6557</li>
               <li>INFO@USTSOCCER.COM</li>
             </ul>
           </div>
