@@ -7,54 +7,44 @@ import { Link } from 'react-router-dom';
 
 const newsletters = [
   {
-    title: "February 2025 Newsletter",
-    date: "February 1, 2025",
+    title: "March 2024 Newsletter",
+    date: "March 1, 2024",
     highlights: [
       "Spring Season Registration Now Open",
       "Elite Training Program Launch",
       "Player Spotlight: Sarah Johnson",
-      "Upcoming Spring Break Camp Details"
+      "Upcoming Spring Break Camp Details",
+    
     ],
     image: "https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673b8a9115ee066c37b605ad.png",
     content: `
-    
-     UST FC Academy Newsletter – Exciting Updates & Upcoming Events! ⚽
-    Dear UST FC Academy Family,
-    The past two weeks have been nothing short of incredible! Our teams have been making waves, racking up awards at recent local tournaments and showcasing the hard work and dedication that defines UST. A huge congratulations to all our players, coaches, and families who continue to represent UST with passion and excellence!
-    Upcoming Events & Opportunities
-    Spring Break Camp – April 14th-17th
-    Looking to stay sharp over the break? Our Spring Break Camp is the perfect opportunity to refine skills, enhance game IQ, and train with top-tier coaches. Spots are limited, so be sure to sign up soon!
-    UST Intense Summer Camps Series – Registration is Live!
-    Summer is around the corner, and our UST Summer Camps Series are officially open for registration! These camps provide elite training, competitive gameplay, and a fun environment for players to elevate their game. Don’t miss out—secure your spot today!
-    Camp 1: June 30 - July 3
-    Camp 2: July 28 - July 31
-    Camp 3: August 4 - August 7
-    Camp 4: August 25 - August 28
-    Time: 9am - 12pm
-    venue: Burr Winkle Park, Harvest Ln, Commack NY 11725
-    2025 UST Residential Camp
+      Spring Season Registration
+      Registration for our Spring 2024 season is now open! Early bird discounts available until March 15th. Programs available for all age groups from Cozy Feet to Elite Academy.
 
-    Date: July 19th - 26th
-    ⚽ NYCFC vs. Inter Miami – Exclusive UST Ticket Offer!
-    We’re thrilled to announce that UST Academy members have the exclusive opportunity to purchase discounted tickets for the highly anticipated NYCFC vs. Inter Miami match! This is a fantastic chance to watch top-level soccer while enjoying special UST pricing. Stay tuned for more details on how to claim your tickets!
-    Date: September 2025
-    Time: TBD
-    Thank you for being a part of the UST family—we can’t wait for all that’s ahead!
+      Elite Training Program Launch
+      We're excited to announce our new Elite Training Program, designed for advanced players looking to take their game to the next level. Professional coaching staff, advanced tactical training, and personalized development plans.
 
+      Player Spotlight
+      Congratulations to Sarah Johnson for her outstanding performance at the State Championships. Sarah's dedication and hard work exemplify the UST spirit!
 
+      Spring Break Camp
+      Don't miss our intensive Spring Break Camp (April 1-5). Limited spots available. Early registration recommended.
+    `
   },
   {
     title: "February 2025 Newsletter",
     date: "February 1, 2025",
     highlights: [
-      "Winter Indoor Tournament Results",
-      "College Signing Day Celebration",
+      "Winter Indoor League Higlights and Results",
+      "2025 Camps & Clinics Details",
       "New Training Facility Updates",
-      "Coach of the Month: Mike Thompson"
+      "Coach of the Month: Coach Bob",
+      "Pro Game Day: NY City FC vs Inter Miami",
+      "Player Spotlights: Player of The Month"
     ],
     image: "https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673bd75015ee065bf0b64cad.png",
-    content: 
-      Winter Indoor Tournament Success
+    content: `
+      Winter Indoor League Success
       Congratulations to all teams on a successful Winter Indoor League season. Special mention to our U14 boys and U16 girls teams for reaching the finals!
 
       College Signing Day
@@ -65,6 +55,7 @@ const newsletters = [
 
       Coach Spotlight
       Coach Mike Thompson has been named Coach of the Month for his outstanding work with our youth development program.
+    `
   }
 ];
 
