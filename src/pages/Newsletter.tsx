@@ -49,7 +49,7 @@ const newsletters = [
       "Winter Indoor League Higlights and Results",
       "2025 Camps & Clinics Details",
       "New Training Facility Updates",
-      "Coach of the Month: Coach Bob",
+      "Coach of the Month: Coach Mike",
       "Pro Game Day: NY City FC vs Inter Miami",
       "Player Spotlights: Player of The Month"
     ],
