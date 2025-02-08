@@ -19,41 +19,59 @@ const newsletters = [
     
     ],
     image: "https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673b8a9115ee066c37b605ad.png",
-    content: `
-      Dear UST FC Academy Family,
-    The past two weeks have been nothing short of incredible! Our teams have been making waves, racking up awards at recent local tournaments and showcasing the hard work and dedication that defines UST. A huge congratulations to all our players, coaches, and families who continue to represent UST with passion and excellence!
-    
-    Upcoming Events & Opportunities
-    
-    Spring Break Camp – April 14th-17th
-    
-    Looking to stay sharp over the break? Our Spring Break Camp is the perfect opportunity to refine skills, enhance game IQ, and train with top-tier coaches. Spots are limited, so be sure to sign up soon!
-    UST Intense Summer Camps Series – Registration is Live!
-    Summer is around the corner, and our UST Summer Camps Series are officially open for registration! These camps provide elite training, competitive gameplay, and a fun environment for players to elevate their game. Don’t miss out—secure your spot today!
-    
-    Camp 1: June 30 - July 3
-    
-    Camp 2: July 28 - July 31
-    
-    Camp 3: August 4 - August 7
-    
-    Camp 4: August 25 - August 28
-    
-    Time: 9am - 12pm
-    
-    venue: Burr Winkle Park, Harvest Ln, Commack NY 11725
-    
-    2025 UST Residential Camp
+    content: ` Subject: Introducing the New UST Soccer Academy Website & Exciting Upcoming Events
 
-    Date: July 19th - 26th
-    
-    ⚽ NYCFC vs. Inter Miami – Exclusive UST Ticket Offer!
-    We’re thrilled to announce that UST Academy members have the exclusive opportunity to purchase discounted tickets for the highly anticipated NYCFC vs. Inter Miami match! This is a fantastic chance to watch top-level soccer while enjoying special UST pricing. Stay tuned for more details on how to claim your tickets!
-    
-    Date: September 2025
-    Time: TBD
-    
-    Thank you for being a part of the UST family—we can’t wait for all that’s ahead!
+Dear UST Soccer Academy Members,
+
+We are thrilled to announce the launch of our newly redesigned website. Built with the latest technologies—React, TypeScript, and Tailwind CSS—our new website offers an enhanced user experience designed with you in mind.
+
+Key Features:
+
+Our website features a comprehensive Programs & Training section, offering detailed information about our Youth Development Programs, Elite Training Programs, Cozy Feet Program for ages 2-7, and various upcoming Camps & Clinics.
+
+The integrated Event Management system ensures you never miss an important date, with an Upcoming Events Calendar, an Online Registration System, detailed Event Schedules, and automated Registration Confirmations.
+
+A dynamic Content Management system keeps you updated with the latest News, and our Newsletter System ensures you're always in the loop. Real-time Form Validation and Interactive Components further enhance the user experience.
+
+Winter Indoor League Success
+
+Congratulations to all teams on a successful UST Winter IndoorTournament. Special mention to our U10 boys and U12 girls teams for reaching the finals!
+      
+Upcoming Events:
+
+Spring Break Camp (April 14th-17th): This camp is a great opportunity for our young players to refine their skills, boost their game IQ, and train with top-tier coaches during the spring break.
+
+UST Intense Summer Camps Series (Registration is Live!): Our summer camps provide elite training and a fun environment for players. Secure your spot today for camps running on:
+
+June 30 - July 3
+
+July 28 - July 31
+
+August 4 - August 7
+
+August 25 - August 28 
+
+Burr Winkle Park, Commack NY.
+
+2025 UST Residential Camp: 
+
+July 19th - 26th 
+
+Join us for an unforgettable experience at the beautiful Venue of Lake George.
+
+Exclusive UST Ticket Offer: 
+
+As a UST Academy member, you have the exclusive opportunity to purchase discounted tickets for the NYCFC vs. Inter Miami match.
+
+September 2025
+NYFC vs inter Miami
+Time: TBD
+
+We're proud to launch a site that not only looks great but also makes it easier for you to access the information you need. We invite you to visit our new website and explore our exciting range of programs and events.
+
+Looking forward to seeing you on the field,
+
+UST Soccer Academy Team
 
     `
   },
