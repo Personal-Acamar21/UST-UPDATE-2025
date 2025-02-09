@@ -39,7 +39,9 @@ Congratulations to all teams on a successful UST Winter IndoorTournament. Specia
       
 Upcoming Events:
 
-Spring Break Camp (April 14th-17th): This camp is a great opportunity for our young players to refine their skills, boost their game IQ, and train with top-tier coaches during the spring break.
+Spring Break Camp (April 14th-17th): 
+
+This camp is a great opportunity for our young players to refine their skills, boost their game IQ, and train with top-tier coaches during the spring break.
 
 UST Intense Summer Camps Series (Registration is Live!): Our summer camps provide elite training and a fun environment for players. Secure your spot today for camps running on:
 
@@ -96,7 +98,8 @@ UST Soccer Academy Team
       "Upcoming Spring Break & Summer Camp Details",
       
     ],
-    
+    Image:" " 
+
   }
 ];
 
