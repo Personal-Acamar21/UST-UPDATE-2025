@@ -45,17 +45,24 @@ UST Intense Summer Camps Series (Registration is Live!): Our summer camps provid
 
 June 30 - July 3
 
+
 July 28 - July 31
+
 
 August 4 - August 7
 
+
 August 25 - August 28 
 
-Burr Winkle Park, Commack NY.
+
+Burr Winkle Park, Commack NY
+
 
 2025 UST Residential Camp: 
 
+
 July 19th - 26th 
+
 
 Join us for an unforgettable experience at the beautiful Venue of Lake George.
 
@@ -64,12 +71,15 @@ Exclusive UST Ticket Offer:
 As a UST Academy member, you have the exclusive opportunity to purchase discounted tickets for the NYCFC vs. Inter Miami match.
 
 September 2025
+
 NYFC vs inter Miami
+
 Time: TBD
 
 We're proud to launch a site that not only looks great but also makes it easier for you to access the information you need. We invite you to visit our new website and explore our exciting range of programs and events.
 
 Looking forward to seeing you on the field,
+
 
 UST Soccer Academy Team
 
@@ -77,29 +87,16 @@ UST Soccer Academy Team
   },
   {
 
-    title: "March 2024 Newsletter",
-    date: "March 1, 2024",
+    title: "March 2025 Newsletter Coming Soon!",
+    date: "March 1, 2025",
     highlights: [
-      "Spring Season Registration Now Open",
-      "Elite Training Program Launch",
-      "Player Spotlight: Sarah Johnson",
-      "Upcoming Spring Break Camp Details",
+      "Spring Season Updates ",
+      "Academy Training ",
+      "Player Spotlight: Player of The month: TBA",
+      "Upcoming Spring Break & Summer Camp Details",
       
     ],
-    image: "https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673bd75015ee065bf0b64cad.png",
-    content: `
-      Winter Indoor League Success
-      Congratulations to all teams on a successful Winter Indoor League season. Special mention to our U14 boys and U16 girls teams for reaching the finals!
-
-      College Signing Day
-      Proud moment for UST Academy as five of our players signed with Division 1 colleges. We wish them continued success in their academic and athletic careers.
-
-      Facility Updates
-      Our new indoor training facility is now complete with state-of-the-art equipment and technology. Book your training session today!
-
-      Coach Spotlight
-      Coach Mike Thompson has been named Coach of the Month for his outstanding work with our youth development program.
-    `
+    
   }
 ];
 
