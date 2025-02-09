@@ -85,21 +85,7 @@ Looking forward to seeing you on the field,
 
 UST Soccer Academy Team
 
-    `
-  },
-  {
-
-    title: "March 2025 Newsletter Coming Soon!",
-    date: "March 1, 2025",
-    highlights: [
-      "Spring Season Updates ",
-      "Academy Training ",
-      "Player Spotlight: Player of The month: TBA",
-      "Upcoming Spring Break & Summer Camp Details",
-      
-    ],
-    Image:" " 
-
+     `
   }
 ];
 
