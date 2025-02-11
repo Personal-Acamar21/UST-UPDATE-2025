@@ -35,8 +35,8 @@ A dynamic Content Management system keeps you updated with the latest News, and 
 
 Winter Indoor League Success
 
-Congratulations to all teams on a successful UST Winter IndoorTournament. Special mention to our U10 boys and U12 girls teams for reaching the finals!
-      
+Winter Indoor League Success Congratulations to all teams on a successful Winter Indoor League season. Special mention to our B2013 Man City 1st Place, B2010 Elite Champions & Runner Up, B2014 Fury Runners Up.
+
 Upcoming Events:
 
 Spring Break Camp (April 14th-17th): 
